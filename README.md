@@ -18,7 +18,7 @@ Hi, if you have an account in sms.ir, you can use this package for laravel
 How to install:
 -------------
 
-    composer require mahdialikhani/sms-ir
+    composer require mahdialikhani/smsir
     php artisan vendor:publish
     php artisan migrate
 
